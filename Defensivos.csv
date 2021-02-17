@@ -1,37 +1,37 @@
-Nombre,Posicion,Equipo,Intercepciones,DuelosGanados,DuelosAereosGanados,Bloqueos/Partido,Despejes/Partido,BarridasGanadas,Partidos,Intercepciones,Bloqueos,Despejes
-Fernando Navarro,LD,León,0.55,58.00%,46.00%,0.55,1.6,66.00%,20,11,4,32
-Alan Mozo,LD,Pumas,1.25,49.00%,81.00%,1.25,0.95,68.00%,20,25,2,19
-Jorge Sánchez,LD,América,1.27,46.00%,50.00%,1.27,1.8,60.00%,15,19,4,27
-Juan Escobar,LD,Cruz Azul,1.4,43.00%,43.00%,1.4,2.15,61.00%,20,28,7,43
-Stefan Medina,LD,Monterrey,1.31,47.00%,62.00%,1.31,1,88.00%,13,17,1,13
-Chaka Rodriguez,LD,Tigres,1.06,51.00%,59.00%,1.06,1.17,69.00%,18,19,5,21
-Chapo Sanchez,LD,Chivas,1.64,52.00%,35.00%,1.64,1.5,56.00%,22,36,3,33
-Van Rankin,LD,Santos,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
-Kevin Alvarez,LD,Pachuca,1.18,55.00%,44.00%,1.18,1.29,56.00%,17,20,5,22
-Julio Gonzalez,LD,Necaxa,0.83,48.00%,48.00%,0.83,3.06,65.00%,18,15,13,55
-Dedos Lopez,LD,Toluca,0.78,58.00%,71.00%,0.78,1.28,68.00%,18,14,9,23
-George Corral,LD,Puebla,1.31,51.00%,53.00%,1.31,2.38,63.00%,16,21,1,38
-Luis Hernandez,LD,Juarez,0.83,30.00%,57.00%,0.83,1,100.00%,6,5,1,6
-Israel Jimenez,LD,Mazatlan,1.17,66.00%,62.00%,1.17,1.5,75.00%,6,7,1,9
-Vladimir Loroña,LD,Tijuana,1,48.00%,50.00%,1,2.13,74.00%,8,8,1,17
-Abella,LD,Atlas,0.92,47.00%,38.00%,0.92,2.23,73.00%,13,12,6,29
-Irving Zurita,LD,Queretaro ,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
-Camilo Mayada,LD,San Luis ,1.07,41.00%,23.00%,1.07,0.6,79.00%,15,16,0,9
-Wiliam Tesillo,LI,León,1.636363636,49.00%,49.00%,0.681818182,2.590909091,60.00%,22,36,15,57
-Manuel Mayorga,LI,Pumas,1.368421053,45.00%,47.00%,0.210526316,1.368421053,54.00%,19,26,4,26
-Luis Fuentes,LI,América,1.8,49.00%,42.00%,0.5,1.7,50.00%,10,18,5,17
-Adrian Aldrete,LI,Cruz Azul,1.05,50.00%,48.00%,0.1,1.7,71.00%,20,21,2,34
-Miguel Layun,LI,Monterrey,0.588235294,46.00%,50.00%,0.117647059,0.647058824,70.00%,17,10,2,11
-Edgar Duenas,LI,Tigres,0.6,58.00%,71.00%,0.2,0.75,69.00%,20,12,4,15
-Miguel Ponce,LI,Chivas,0.842105263,46.00%,49.00%,0.263157895,0.842105263,64.00%,19,16,5,16
-Carlos Orrantia,LI,Santos,0.5,43.00%,42.00%,0,0.4,33.00%,10,5,0,4
-Erick Aguirre,LI,Pachuca,2.133333333,45.00%,52.00%,0.066666667,1.666666667,75.00%,15,32,1,25
-Idekel Dominguez,LI,Necaxa,1.666666667,48.00%,33.00%,0.2,1.533333333,50.00%,15,25,3,23
-Diego Gonzalez,LI,Toluca,0.8,51.00%,52.00%,0.066666667,1.733333333,66.00%,15,12,1,26
-Brayan Angulo,LI,Puebla,1.166666667,58.00%,62.00%,0.222222222,1.166666667,62.00%,18,21,4,21
-Alan Mendoza,LI,Juarez,1.25,52.00%,60.00%,0.416666667,1.333333333,70.00%,12,15,5,16
-Efrain Velarde,LI,Mazatlan,1.214285714,48.00%,46.00%,0.214285714,1.142857143,75.00%,14,17,3,16
-Aldo Cruz,LI,Tijuana,0.583333333,56.00%,36.00%,0.166666667,0.833333333,100.00%,12,7,2,10
-Jesus Angulo,LI,Atlas,1.133333333,57.00%,56.00%,0.466666667,1.866666667,60.00%,15,17,7,28
-Eric Vera,LI,Queretaro ,0.666666667,51.00%,46.00%,0.166666667,1.583333333,40.00%,12,8,2,19
-Cadete,LI,San Luis ,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+Nombre,Posicion,Equipo,IntercepcionesPorPartido,DuelosGanados,DuelosAereosGanados,Bloqueos/Partido,Despejes/Partido,BarridasGanadas
+Fernando Navarro,LD,León,0.55,58.00%,46.00%,0.55,1.6,66.00%
+Alan Mozo,LD,Pumas,1.25,49.00%,81.00%,1.25,0.95,68.00%
+Jorge Sánchez,LD,América,1.27,46.00%,50.00%,1.27,1.8,60.00%
+Juan Escobar,LD,Cruz Azul,1.4,43.00%,43.00%,1.4,2.15,61.00%
+Stefan Medina,LD,Monterrey,1.31,47.00%,62.00%,1.31,1,88.00%
+Chaka Rodriguez,LD,Tigres,1.06,51.00%,59.00%,1.06,1.17,69.00%
+Chapo Sanchez,LD,Chivas,1.64,52.00%,35.00%,1.64,1.5,56.00%
+Van Rankin,LD,Santos,n/a,n/a,n/a,n/a,n/a,n/a
+Kevin Alvarez,LD,Pachuca,1.18,55.00%,44.00%,1.18,1.29,56.00%
+Julio Gonzalez,LD,Necaxa,0.83,48.00%,48.00%,0.83,3.06,65.00%
+Dedos Lopez,LD,Toluca,0.78,58.00%,71.00%,0.78,1.28,68.00%
+George Corral,LD,Puebla,1.31,51.00%,53.00%,1.31,2.38,63.00%
+Luis Hernandez,LD,Juarez,0.83,30.00%,57.00%,0.83,1,100.00%
+Israel Jimenez,LD,Mazatlan,1.17,66.00%,62.00%,1.17,1.5,75.00%
+Vladimir Loroña,LD,Tijuana,1,48.00%,50.00%,1,2.13,74.00%
+Abella,LD,Atlas,0.92,47.00%,38.00%,0.92,2.23,73.00%
+Irving Zurita,LD,Queretaro ,n/a,n/a,n/a,n/a,n/a,n/a
+Camilo Mayada,LD,San Luis ,1.07,41.00%,23.00%,1.07,0.6,79.00%
+Wiliam Tesillo,LI,León,1.636363636,49.00%,49.00%,0.681818182,2.590909091,60.00%
+Manuel Mayorga,LI,Pumas,1.368421053,45.00%,47.00%,0.210526316,1.368421053,54.00%
+Luis Fuentes,LI,América,1.8,49.00%,42.00%,0.5,1.7,50.00%
+Adrian Aldrete,LI,Cruz Azul,1.05,50.00%,48.00%,0.1,1.7,71.00%
+Miguel Layun,LI,Monterrey,0.588235294,46.00%,50.00%,0.117647059,0.647058824,70.00%
+Edgar Duenas,LI,Tigres,0.6,58.00%,71.00%,0.2,0.75,69.00%
+Miguel Ponce,LI,Chivas,0.842105263,46.00%,49.00%,0.263157895,0.842105263,64.00%
+Carlos Orrantia,LI,Santos,0.5,43.00%,42.00%,0,0.4,33.00%
+Erick Aguirre,LI,Pachuca,2.133333333,45.00%,52.00%,0.066666667,1.666666667,75.00%
+Idekel Dominguez,LI,Necaxa,1.666666667,48.00%,33.00%,0.2,1.533333333,50.00%
+Diego Gonzalez,LI,Toluca,0.8,51.00%,52.00%,0.066666667,1.733333333,66.00%
+Brayan Angulo,LI,Puebla,1.166666667,58.00%,62.00%,0.222222222,1.166666667,62.00%
+Alan Mendoza,LI,Juarez,1.25,52.00%,60.00%,0.416666667,1.333333333,70.00%
+Efrain Velarde,LI,Mazatlan,1.214285714,48.00%,46.00%,0.214285714,1.142857143,75.00%
+Aldo Cruz,LI,Tijuana,0.583333333,56.00%,36.00%,0.166666667,0.833333333,100.00%
+Jesus Angulo,LI,Atlas,1.133333333,57.00%,56.00%,0.466666667,1.866666667,60.00%
+Eric Vera,LI,Queretaro ,0.666666667,51.00%,46.00%,0.166666667,1.583333333,40.00%
+Cadete,LI,San Luis ,n/a,n/a,n/a,n/a,n/a,n/a
