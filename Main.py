@@ -1,10 +1,16 @@
 import pandas as pd
 
 defensivos = pd.read_csv("Defensivos.csv")
-print(defensivos)
+#print(defensivos)
+#defensivos.dropna
+print(defensivos.describe())
 
 distribucion = pd.read_csv("Distribucion.csv")
-print(distribucion)
+#distribucion.dropna
+print(distribucion.describe())
+#(distribucion)
 
 ofensivos = pd.read_csv("Ataque.csv")
-print(ofensivos)
+#ofensivos.dropna
+print(ofensivos.describe())
+#print(ofensivos)
