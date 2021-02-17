@@ -1,4 +1,4 @@
-Nombre,Posicion,Equipo,Asistencias, PasesAcertados, PasesPorPartido, ToquesPorPartido, CambiosDeJuego
+Nombre,Posicion,Equipo,Asistencias,PasesAcertados,PasesPorPartido,ToquesPorPartido,CambiosDeJuegoExitosos
 Fernando Navarro,LD,León,4,87.00%,43,62,46.00%
 Alan Mozo,LD,Pumas,3,69.00%,31,58,19.00%
 Jorge Sánchez,LD,América,2,80.00%,35,64,23.00%
