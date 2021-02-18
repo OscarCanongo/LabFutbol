@@ -31,6 +31,9 @@ barridasList = (defensivos.loc[defensivos['BarridasGanadas'] > barridasGanadas])
 mejoresDefensivos = pd.concat([intercepcionesList, duelosList, duelosAereosList, bloqueosList, despejesList, barridasList])
 #print(mejoresDefensivos.groupby(['Nombre']).sum())
 
+# print(mejoresDefensivos)
+# print(len(mejoresDefensivos))
+
 #Manejo de Dataset Distribucion
 distribucion = pd.read_csv("Distribucion.csv")
 distribucion.dropna() # Eliminamos Nulos
@@ -78,5 +81,38 @@ regatesList = (ofensivos.loc[ofensivos['Regates exitosos '] > regatesExitosos])
 mejoresOfensivos = pd.concat([golesList, tirosList, regatesList])
 #print(mejoresOfensivos.groupby(['Nombre']).sum())
 
-mejoresLaterales = pd.concat([mejoresDefensivos, mejoresDistribucion, mejoresOfensivos])
-print(mejoresLaterales)
+# mejoresLaterales = pd.concat([mejoresDefensivos, mejoresDistribucion, mejoresOfensivos])
+# print(mejoresLaterales)
+
+#
+# Separando a los mejores Laterales (>75%) entre MD y MI.
+#
+ofensivaLD = mejoresOfensivos.loc[mejoresOfensivos['Posicion']=="LD"]
+ofensivaLDNombres = ofensivaLD['Nombre'].value_counts()
+
+ofensivaLI = mejoresOfensivos.loc[mejoresOfensivos['Posicion']=="LI"]
+ofensivaLINombres = ofensivaLI['Nombre'].value_counts()
+#print(ofensivaLD)
+# print("OFENSIVA LD")
+# print(ofensivaLDNombres)
+# print("OFENSIVA LI")
+# print(ofensivaLINombres)
+
+
+distribucionLD = mejoresDistribucion.loc[mejoresDistribucion['Posicion']=="LD"]
+distribucionLDNombres = distribucionLD['Nombre'].value_counts()
+distribucionLI = mejoresDistribucion.loc[mejoresDistribucion['Posicion']=="LI"]
+distribucionLINombres = distribucionLI['Nombre'].value_counts()
+# print("DISTRIBUCION LD")
+# print(distribucionLDNombres)
+# print("DISTRIBUCION LI")
+# print(distribucionLINombres)
+
+defensaLD = mejoresDefensivos.loc[mejoresDefensivos['Posicion']=="LD"]
+defensaLDNombres = defensaLD['Nombre'].value_counts()
+defensaLI = mejoresDefensivos.loc[mejoresDefensivos['Posicion']=="LI"]
+defensaLINombres = defensaLI['Nombre'].value_counts()
+print("ATAQUE LD")
+print(defensaLDNombres)
+print("ATAQUE LI")
+print(defensaLINombres)
