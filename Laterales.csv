@@ -1,0 +1,9 @@
+Nombre,Posicion,Equipo,IntercepcionesPorPartido,DuelosGanados,DuelosAereosGanados,Bloqueos/Partido,Despejes/Partido,BarridasGanadas,Asistencias,PasesAcertados,PasesPorPartido,ToquesPorPartido,CambiosDeJuegoExitosos,Goles,Tiros a puerta,Goles dentro del area,Goles fuera del area,Regates exitosos 
+Fernando Navarro,LD,León,0.55,58.00%,46.00%,0.55,1.6,66.00%,4,87.00%,43,62,46.00%,4,53%,4,0,17
+Jorge Sánchez,LD,América,1.27,46.00%,50.00%,1.27,1.8,60.00%,2,80.00%,35,64,23.00%,1,67%,1,0,25
+Chaka Rodriguez,LD,Tigres,1.06,51.00%,59.00%,1.06,1.17,69.00%,2,86.00%,51,74,28.00%,2,25%,1,1,18
+Israel Jimenez,LD,Mazatlan,1.17,66.00%,62.00%,1.17,1.5,75.00%,0,86.00%,41,56,0.00%,0,50%,0,0,2
+Wiliam Tesillo,LI,León,1.636363636,49.00%,49.00%,0.681818182,2.590909091,60.00%,0,85.00%,64,82,23.00%,0,44%,0,0,17
+Manuel Mayorga,LI,Pumas,1.368421053,45.00%,47.00%,0.210526316,1.368421053,54.00%,0,84.00%,41,70,27.00%,1,67%,1,0,15
+Edgar Duenas,LI,Tigres,0.6,58.00%,71.00%,0.2,0.75,69.00%,0,88.00%,51,66,21.00%,1,57%,1,0,6
+Jesus Angulo,LI,Atlas,1.133333333,57.00%,56.00%,0.466666667,1.866666667,60.00%,1,84.00%,37,60,12.00%,0,17%,0,0,4

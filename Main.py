@@ -93,26 +93,28 @@ ofensivaLDNombres = ofensivaLD['Nombre'].value_counts()
 ofensivaLI = mejoresOfensivos.loc[mejoresOfensivos['Posicion']=="LI"]
 ofensivaLINombres = ofensivaLI['Nombre'].value_counts()
 #print(ofensivaLD)
-# print("OFENSIVA LD")
-# print(ofensivaLDNombres)
-# print("OFENSIVA LI")
-# print(ofensivaLINombres)
+print("OFENSIVA LD")
+print(ofensivaLDNombres)
+print("OFENSIVA LI")
+print(ofensivaLINombres)
 
 
 distribucionLD = mejoresDistribucion.loc[mejoresDistribucion['Posicion']=="LD"]
 distribucionLDNombres = distribucionLD['Nombre'].value_counts()
 distribucionLI = mejoresDistribucion.loc[mejoresDistribucion['Posicion']=="LI"]
 distribucionLINombres = distribucionLI['Nombre'].value_counts()
-# print("DISTRIBUCION LD")
-# print(distribucionLDNombres)
-# print("DISTRIBUCION LI")
-# print(distribucionLINombres)
+print("DISTRIBUCION LD")
+print(distribucionLDNombres)
+print("DISTRIBUCION LI")
+print(distribucionLINombres)
 
 defensaLD = mejoresDefensivos.loc[mejoresDefensivos['Posicion']=="LD"]
 defensaLDNombres = defensaLD['Nombre'].value_counts()
 defensaLI = mejoresDefensivos.loc[mejoresDefensivos['Posicion']=="LI"]
 defensaLINombres = defensaLI['Nombre'].value_counts()
-print("ATAQUE LD")
+print("Defensa LD")
 print(defensaLDNombres)
-print("ATAQUE LI")
+print("Defensa LI")
 print(defensaLINombres)
+
+
