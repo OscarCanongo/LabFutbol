@@ -1,12 +1,11 @@
-,0,1,2,3,4,5,6,7
-Nombre,Fernando Navarro,Jorge Sánchez,Chaka Rodriguez,Israel Jimenez,Wiliam Tesillo,Manuel Mayorga,Edgar Duenas,Jesus Angulo
+,Fernando Navarro,Jorge Sanchez,Chaka Rodriguez,Israel Jimenez,Wiliam Tesillo,Manuel Mayorga,Edgar Duenas,Jesus Angulo
 Posicion,LD,LD,LD,LD,LI,LI,LI,LI
-Equipo,León,América,Tigres,Mazatlan,León,Pumas,Tigres,Atlas
+Equipo,Leon,America,Tigres,Mazatlan,Leon,Pumas,Tigres,Atlas
 IntercepcionesPorPartido,0.55,1.27,1.06,1.17,1.636363636,1.368421053,0.6,1.133333333
 DuelosGanados,58.00%,46.00%,51.00%,66.00%,49.00%,45.00%,58.00%,57.00%
 DuelosAereosGanados,46.00%,50.00%,59.00%,62.00%,49.00%,47.00%,71.00%,56.00%
-Bloqueos/Partido,0.55,1.27,1.06,1.17,0.681818182,0.21052631600000002,0.2,0.46666666700000003
-Despejes/Partido,1.6,1.8,1.17,1.5,2.590909091,1.368421053,0.75,1.8666666669999998
+Bloqueos/Partido,0.55,1.27,1.06,1.17,0.681818182,0.210526316,0.2,0.466666667
+Despejes/Partido,1.6,1.8,1.17,1.5,2.590909091,1.368421053,0.75,1.866666667
 BarridasGanadas,66.00%,60.00%,69.00%,75.00%,60.00%,54.00%,69.00%,60.00%
 Asistencias,4,2,2,0,0,0,0,1
 PasesAcertados,87.00%,80.00%,86.00%,86.00%,85.00%,84.00%,88.00%,84.00%
@@ -17,4 +16,5 @@ Goles,4,1,2,0,0,1,1,0
 Tiros a puerta,53%,67%,25%,50%,44%,67%,57%,17%
 Goles dentro del area,4,1,1,0,0,1,1,0
 Goles fuera del area,0,0,1,0,0,0,0,0
+Regates exitosos,17,25,18,2,17,15,6,4
 Regates exitosos,17,25,18,2,17,15,6,4
